@@ -1,6 +1,6 @@
 ## Hi everyone :wave:
 
-I'm a front-end developer from the Brazil, who loves open source, and is currently working at [Localiza/Zarp](http://zarp.localiza.com/) as architect.
+I'm a front-end developer from the Brazil, who loves open source, and is currently working at [Skip](https://helloskip.com/) as crossfunctional develper.
 I mainly code in TypeScript, full-stack since 2014, but in 2017 I fell in love with React and React Native, Vue and so many other modern front-end frameworks. I am always learning. Currently I'm also
 working on a couple of VR/AR games, including my own
 [GrooVR](https://www.oculus.com/experiences/quest/4011466365558046/), made in Unity which is a game for Meta Quest

@@ -19,7 +19,7 @@ that can be used to learn drums ludically.
 </summary>
 
 ### What I do
-I contribute to open source projects, but my involvement goes beyond just coding. I'm not only a coder; I'm also the founder and community manager of the ([JS VIX Meetup]([https://www.meetup.com/pt-BR/React-ES/](https://www.eventbrite.com.br/e/js-vix-tickets-741027963587?aff=oddtdtcreator))) 
+I contribute to open source projects, but my involvement goes beyond just coding; I'm also the founder and community manager of the ([JS VIX Meetup]([https://www.meetup.com/pt-BR/React-ES/](https://www.eventbrite.com.br/e/js-vix-tickets-741027963587?aff=oddtdtcreator))) 
 
 ## My skills 📜
   

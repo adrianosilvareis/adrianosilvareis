@@ -34,6 +34,7 @@ I contribute to open source projects, but my involvement goes beyond just coding
 
 ### Web technologies
 
+- Firebase
 - JavaScript
   ([LinkedIn Assesments Certified](https://www.linkedin.com/in/erasmo-dev/))
 - TypeScript
